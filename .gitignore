@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ipython Notebook
+.ipynb_checkpoints
+
+# Working files
+notMNIST_large
+notMNIST_small
+*.tar.gz
+*.zip
+*.pickle
+notMNIST_large/
+notMNIST_small/
